@@ -21,9 +21,9 @@ plainwhite:
   analytics_id: "UA-145380239-2"
   navigation:
     - title: My Work
-      url: "/my-work"
+      url: "/Javascript"
     - title: Resume
-      url: "/resume"
+      url: "/NodeJS"
 
   # generate social links in footer
   social_links:

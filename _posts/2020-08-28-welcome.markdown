@@ -5,4 +5,7 @@ date:   2020-08-28 15:38:00 +0900
 categories: Welcome
 ---
 
-Welcome to Jenny's Website :)
+Welcome to My Website :)
+Check out [My Linkedin][Jenny-Linkedin] for more info about me. Thank you.
+
+[Jenny-Linkedin]: https://www.linkedin.com/in/yujinjang/

@@ -1,7 +1,7 @@
 title: Jenny's Website
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
+author: Jenny Jang
+email: jenny.yujin.jang@gmail.com
+description: Hi, I'm Jenny. I am keen to be the world's leading digital data modeling expert. # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Jenny Yujin Jang
+  name: Jenny Jang (장유진)
   tagline: Statistician, Digital Strategist
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -20,19 +20,20 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  analytics_id: "UA-145380239-2"
 
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  jennyujin
+    linkedIn: in/yujinjnang
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
-    #pinterest: jekyll
+    instagram: jennyujin
+    pinterest: jennyujin
     #youtube: jekyll
-    #facebook: jekyll
+    facebook: jennyujin
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll

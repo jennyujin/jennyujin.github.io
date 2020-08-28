@@ -9,4 +9,4 @@ I am using Simplistic jekyll portfolio-style theme for writers.
 ## Statistical Modeling
 
 
-- [Jenny's Github Main](https://github.com/jennyujin)
+- [Jenny's Website Main](https://jennyujin.github.io/)

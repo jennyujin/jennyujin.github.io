@@ -1,10 +1,8 @@
 title: Jenny's Website
 author: Jenny Jang
 email: jenny.yujin.jang@gmail.com
-description: Hi, I'm Jenny. I am keen to be the world's leading digital data modeling expert. # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > # this means to ignore newlines until "show_exerpts:"
+  Hi, I'm Jenny. I am keen to be the world's leading digital data modeling expert.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format

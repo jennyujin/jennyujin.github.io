@@ -30,7 +30,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  jennyujin
+    #github:  jennyujin
     linkedIn: in/yujinjnang
     #rss: rss
     #dribbble: jekyll
@@ -38,7 +38,7 @@ plainwhite:
     instagram: jennyujin
     pinterest: jennyujin
     #youtube: jekyll
-    facebook: jennyujin
+    #facebook: jennyujin
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll

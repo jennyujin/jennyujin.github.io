@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Basic Statistics with Python Library Pandas"
+date:   2020-09-15 22:00:00 +0900
+categories: Python
+---
+
+
+At this time I am going to show you some basic statistical functions in Python Library Pandas :) <br />
+
+Here is the Python codes below: <br />
+
+
+```python
+
+### Library pandas
+import pandas as pd
+
+# read csv file
+data = pd.read_csv('LOCATION/FILENAME.csv') #read your csv files
+
+data.shape # number of rows, columns
+data # load data
+
+data.head(2) # first 2 rows / default = 5
+data.tail(2) # last 2 rows 
+
+data.index
+data.columns #column labels
+data.describe #statistics summary for numeric columns
+
+NUMBER = data['COLUMN NAME'] #select the specific column
+NUMBER 
+type(NUMBER) #pandas.core.series.Series
+
+print isNumber(NUMBER) # check the data type / Numberic
+# print(data[1][1]) # print data column 1 row 1  
+
+```
+

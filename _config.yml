@@ -2,7 +2,7 @@ title: Jenny's Website
 author: Jenny Jang
 email: jenny.yujin.jang@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Hi, I'm Jenny. A Statistician who enjoys new challenges.
+  Hi, I'm Jenny. A Statistician who enjoys new challenges. I want to be Digital Strategist in near future.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jenny Yujin Jang
-  tagline: Statistician, Digital Strategist
+  tagline: Statistician, E-Commerce Data Analyst
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
